@@ -5,4 +5,6 @@ Pruebas de la instalación
 <br>
 ![image](https://user-images.githubusercontent.com/68342939/171365324-24c699b8-b46a-4c00-99d2-5e1c44f649a3.png)
 <br>
+![image](https://user-images.githubusercontent.com/68342939/171367352-9889fb0b-edce-44c7-95b2-3bd98ef697fa.png)
+<br>
 ![image](https://user-images.githubusercontent.com/68342939/171365936-cd9dfbcd-4550-4de7-8f16-1377f77eee26.png)
